@@ -3,7 +3,7 @@
 
 Computer Science Student | AI/ML Enthusiast 
 
-VIBE-CODER ❎
+VIBE-CODER ❌
 
 CODER WHO VIBES ✅
 
