@@ -3,9 +3,9 @@
 
 Computer Science Student | AI/ML Enthusiast 
 
-VIBE-CODER ❌
 
-CODER WHO VIBES ✅
+
+
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/saurabh-pramanik-41a6211b1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BwEM1mDT1SWy6dRf81MG3nw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
