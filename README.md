@@ -21,7 +21,6 @@
 - 💼 Former Frontend Intern at **Unified Mentor Pvt Ltd**
 - 🔬 Research in **Quantum Machine Learning** — implemented and benchmarked QENN (Quantum Elman Neural Network) across IBM Qiskit and Microsoft Q# for stock price prediction
 - 🛠️ Building full-stack and backend systems with **Node.js, React, PostgreSQL, Redis**
-- 🎸 Music is life
 
 ---
 
